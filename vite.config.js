@@ -10,8 +10,7 @@ export default defineConfig(({ mode }) => {
   const baseUrl = mode === 'production' ? env.BASE_URL : '/'
 
   return {
-    base: baseUrl,
-
+         base: './'
     build: {
       chunkSizeWarningLimit: 2600,
       rollupOptions: {
