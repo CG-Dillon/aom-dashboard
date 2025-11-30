@@ -1,0 +1,1 @@
+import{_ as r}from"./index.17f58f46.js";import{r as c,b as e,d as t}from"./vendor.f7bcb706.js";const n={};function a(s,_){const o=c("b-card");return e(),t(o,{class:"card",title:"Tour Plugin"})}const l=r(n,[["render",a]]);export{l as default};
